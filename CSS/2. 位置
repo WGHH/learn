@@ -1,0 +1,7 @@
+## 1. 定位
+/* 参照于包含块高度的百分比 */
+top: 10%;
+
+## 2. object-position
+CSS 属性 object-position 规定了可替换元素的内容，在这里我们称其为对象（即 object-position 中的 object），在其内容框中的位置。
+如图片在其内容框中的位置，mdn文档：https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-position
