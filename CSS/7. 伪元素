@@ -1,0 +1,4 @@
+## 1. after和before
+
+- css属性：
+ `content`：可使用自定义属性的值，即attr(data-content)，<span data-content="伪元素可读取这里的值"></span>
